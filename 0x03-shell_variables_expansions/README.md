@@ -4,3 +4,4 @@ script 2 Adds /action to the PATH. /action is the last directory the shell looks
 script 3 counts the number of directories in the PATH.
 script 4 lists environment variables.
 script 5 lists all local variables and environment variables, and functions.
+script 6 creates a new local variable.

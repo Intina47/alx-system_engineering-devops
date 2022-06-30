@@ -10,3 +10,4 @@ script 8 prints the result of the addition of 128 with the value stored in the e
 script 9 prints the result of POWER divided by DIVIDE, followed by a new line.
 script 10 displays the result of BREATH to the power LOVE
 script 11 converts a nummber from base 2 to base 10
+script 12 prints all possible combinations of two letters, except oo
